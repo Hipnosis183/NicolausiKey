@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicolausiKey", "NicolausiKey\NicolausiKey.csproj", "{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Debug|x86.ActiveCfg = Debug|x86
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Debug|x86.Build.0 = Debug|x86
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Release|x86.ActiveCfg = Release|x86
+		{97ABB6E8-73C9-4485-A7CC-8F7DD27737FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C9CC3A3-A1F6-4270-8412-78982D5E25A1}
+	EndGlobalSection
+EndGlobal
